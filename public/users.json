@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "image": "Ellipse1.png",
+    "name": "John Doe",
+    "designation": "Software Engineer"
+  },
+  {
+    "id": 2,
+    "image": "Ellipse2.png",
+    "name": "Jane Smith",
+    "designation": "UX Designer"
+  },
+  {
+    "id": 3,
+    "image": "Ellipse3.png",
+    "name": "Michael Johnson",
+    "designation": "Product Manager"
+  },
+  {
+    "id": 4,
+    "image": "Ellipse4.png",
+    "name": "Emily Williams",
+    "designation": "Frontend Developer"
+  },
+  {
+    "id": 5,
+    "image": "Ellipse1.png",
+    "name": "Robert Brown",
+    "designation": "Graphic Designer"
+  },
+  {
+    "id": 6,
+    "image": "Ellipse2.png",
+    "name": "Linda Davis",
+    "designation": "UI Developer"
+  },
+  {
+    "id": 7,
+    "image": "Ellipse3.png",
+    "name": "William Wilson",
+    "designation": "Data Scientist"
+  },
+  {
+    "id": 8,
+    "image": "Ellipse4.png",
+    "name": "Jennifer Miller",
+    "designation": "Marketing Manager"
+  },
+  {
+    "id": 9,
+    "image": "Ellipse1.png",
+    "name": "Charles Taylor",
+    "designation": "Backend Developer"
+  },
+  {
+    "id": 10,
+    "image": "Ellipse2.png",
+    "name": "Amanda Martinez",
+    "designation": "Product Designer"
+  },
+  {
+    "id": 11,
+    "image": "Ellipse3.png",
+    "name": "David Lee",
+    "designation": "Student"
+  },
+  {
+    "id": 12,
+    "image": "Ellipse1.png",
+    "name": "Sophia Hernandez",
+    "designation": "Student"
+  },
+  {
+    "id": 13,
+    "image": "Ellipse2.png",
+    "name": "Joseph White",
+    "designation": "Student"
+  },
+  {
+    "id": 14,
+    "image": "Ellipse3.png",
+    "name": "Olivia Clark",
+    "designation": "Student"
+  },
+  {
+    "id": 15,
+    "image": "Ellipse4.png",
+    "name": "Daniel Garcia",
+    "designation": "Student"
+  }
+]

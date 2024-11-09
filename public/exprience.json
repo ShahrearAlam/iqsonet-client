@@ -1,0 +1,112 @@
+[
+  {
+    "schoolName": "ABC High School",
+    "collegeName": "",
+    "universityName": "",
+    "location": "City Dhaka Bangladesh",
+    "fieldOfStudy": "Science",
+    "concentration": "Biology",
+    "startDate": "2015-09-01",
+    "endDate": "2019-06-30",
+    "graduationStatus": "Graduated"
+  },
+  {
+    "schoolName": "",
+    "collegeName": "XYZ College",
+    "universityName": "",
+    "location": "City Dhaka Bangladesh",
+    "fieldOfStudy": "Arts",
+    "concentration": "Visual Arts",
+    "startDate": "2017-08-15",
+    "endDate": "2021-05-25",
+    "graduationStatus": "Graduated"
+  },
+  {
+    "schoolName": "",
+    "collegeName": "",
+    "universityName": "University of Science",
+    "location": "City Dhaka Bangladesh",
+    "fieldOfStudy": "Computer Science",
+    "concentration": "Software Engineering",
+    "startDate": "2018-09-01",
+    "endDate": "2022-06-30",
+    "graduationStatus": "Graduated"
+  },
+  {
+    "schoolName": "PQR High School",
+    "collegeName": "",
+    "universityName": "",
+    "location": "City Dhaka Bangladesh",
+    "fieldOfStudy": "Social Studies",
+    "concentration": "History",
+    "startDate": "2014-08-01",
+    "endDate": "2018-05-30",
+    "graduationStatus": "Graduated"
+  },
+  {
+    "schoolName": "",
+    "collegeName": "LMN College",
+    "universityName": "",
+    "location": "City Dhaka Bangladesh",
+    "fieldOfStudy": "Business Administration",
+    "concentration": "Finance",
+    "startDate": "2019-09-01",
+    "endDate": "2023-05-30",
+    "graduationStatus": "In Progress"
+  },
+  {
+    "schoolName": "",
+    "collegeName": "",
+    "universityName": "Techno University",
+    "location": "City Dhaka Bangladesh",
+    "fieldOfStudy": "Engineering",
+    "concentration": "Electrical Engineering",
+    "startDate": "2020-08-15",
+    "endDate": "2024-05-25",
+    "graduationStatus": "In Progress"
+  },
+  {
+    "schoolName": "JKL High School",
+    "collegeName": "",
+    "universityName": "",
+    "location": "City Dhaka Bangladesh",
+    "fieldOfStudy": "Mathematics",
+    "concentration": "Statistics",
+    "startDate": "2016-09-01",
+    "endDate": "2020-06-30",
+    "graduationStatus": "Graduated"
+  },
+  {
+    "schoolName": "",
+    "collegeName": "UVW College",
+    "universityName": "",
+    "location": "City Dhaka Bangladesh",
+    "fieldOfStudy": "Health Sciences",
+    "concentration": "Physiology",
+    "startDate": "2021-08-01",
+    "endDate": "2025-05-30",
+    "graduationStatus": "In Progress"
+  },
+  {
+    "schoolName": "",
+    "collegeName": "",
+    "universityName": "Artistic University",
+    "location": "City Dhaka Bangladesh",
+    "fieldOfStudy": "Fine Arts",
+    "concentration": "Sculpture",
+    "startDate": "2017-09-01",
+    "endDate": "2021-06-30",
+    "graduationStatus": "Graduated"
+  },
+  {
+    "schoolName": "XYZ High School",
+    "collegeName": "",
+    "universityName": "",
+    "location": "City Dhaka Bangladesh",
+    "fieldOfStudy": "Science",
+    "concentration": "Chemistry",
+    "startDate": "2018-08-15",
+    "endDate": "2022-05-25",
+    "graduationStatus": "Graduated"
+  }
+]

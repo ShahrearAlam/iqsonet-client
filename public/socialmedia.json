@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Facebook",
+    "icon": "FaFacebook"
+  },
+  {
+    "id": 2,
+    "name": "Instagram",
+    "icon": "BsInstagram"
+  },
+  {
+    "id": 3,
+    "name": "LinkedIn",
+    "icon": "FaLinkedin"
+  },
+  {
+    "id": 4,
+    "name": "Twitter",
+    "icon": "FaTwitter"
+  },
+  {
+    "id": 5,
+    "name": "Portfolio",
+    "icon": "FaPortfolio"
+  },
+  {
+    "id": 6,
+    "name": "YouTube",
+    "icon": "FaYoutube"
+  },
+  {
+    "id": 7,
+    "name": "TikTok",
+    "icon": "FaTiktok"
+  },
+  {
+    "id": 8,
+    "name": "Pinterest",
+    "icon": "FaPinterest"
+  },
+  {
+    "id": 9,
+    "name": "Snapchat",
+    "icon": "FaSnapchat"
+  },
+  {
+    "id": 10,
+    "name": "WhatsApp",
+    "icon": "FaWhatsapp"
+  },
+  {
+    "id": 11,
+    "name": "Telegram",
+    "icon": "FaTelegram"
+  },
+  {
+    "id": 12,
+    "name": "Reddit",
+    "icon": "FaReddit"
+  },
+  {
+    "id": 13,
+    "name": "Tumblr",
+    "icon": "FaTumblr"
+  },
+  {
+    "id": 14,
+    "name": "Discord",
+    "icon": "FaDiscord"
+  },
+  {
+    "id": 15,
+    "name": "Skype",
+    "icon": "FaSkype"
+  },
+  {
+    "id": 16,
+    "name": "Vimeo",
+    "icon": "FaVimeo"
+  },
+  {
+    "id": 17,
+    "name": "Medium",
+    "icon": "FaMedium"
+  },
+  {
+    "id": 18,
+    "name": "Flickr",
+    "icon": "FaFlickr"
+  },
+  {
+    "id": 19,
+    "name": "SoundCloud",
+    "icon": "FaSoundcloud"
+  },
+  {
+    "id": 20,
+    "name": "Quora",
+    "icon": "FaQuora"
+  },
+  {
+    "id": 21,
+    "name": "Periscope",
+    "icon": "FaPeriscope"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Post 1",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec sapien turpis. Maecenas faucibus luctus orci at pharetra. Sed auctor sem id eros fermentum dapibus. Curabitur nec nunc eu felis fringilla lacinia et in sem. Cras ultrices lacinia arcu, vel pellentesque tortor varius vel. Nullam pellentesque magna ac velit posuere, sit amet lacinia nibh cursus. Integer viverra nisl eu velit interdum, et finibus nunc sollicitudin.",
+    "postedBy": "Shahtaz Rahman",
+    "date": "17 Nov 2023",
+    "time": "12:05 PM"
+  },
+  {
+    "id": 2,
+    "title": "Post 2",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec sapien turpis. Maecenas faucibus luctus orci at pharetra. Sed auctor sem id eros fermentum dapibus. Curabitur nec nunc eu felis fringilla lacinia et in sem. Cras ultrices lacinia arcu, vel pellentesque tortor varius vel. Nullam pellentesque magna ac velit posuere, sit amet lacinia nibh cursus. Integer viverra nisl eu velit interdum, et finibus nunc sollicitudin.",
+    "postedBy": "Shahtaz Rahman",
+    "date": "17 Nov 2023",
+    "time": "12:05 PM"
+  },
+  {
+    "id": 3,
+    "title": "Post 3",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec sapien turpis. Maecenas faucibus luctus orci at pharetra. Sed auctor sem id eros fermentum dapibus. Curabitur nec nunc eu felis fringilla lacinia et in sem. Cras ultrices lacinia arcu, vel pellentesque tortor varius vel. Nullam pellentesque magna ac velit posuere, sit amet lacinia nibh cursus. Integer viverra nisl eu velit interdum, et finibus nunc sollicitudin.",
+    "postedBy": "Shahtaz Rahman",
+    "date": "17 Nov 2023",
+    "time": "12:05 PM"
+  },
+  {
+    "id": 4,
+    "title": "Post 4",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec sapien turpis. Maecenas faucibus luctus orci at pharetra. Sed auctor sem id eros fermentum dapibus. Curabitur nec nunc eu felis fringilla lacinia et in sem. Cras ultrices lacinia arcu, vel pellentesque tortor varius vel. Nullam pellentesque magna ac velit posuere, sit amet lacinia nibh cursus. Integer viverra nisl eu velit interdum, et finibus nunc sollicitudin.",
+    "postedBy": "Shahtaz Rahman",
+    "date": "17 Nov 2023",
+    "time": "12:05 PM"
+  },
+  {
+    "id": 5,
+    "title": "Post 5",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec sapien turpis. Maecenas faucibus luctus orci at pharetra. Sed auctor sem id eros fermentum dapibus. Curabitur nec nunc eu felis fringilla lacinia et in sem. Cras ultrices lacinia arcu, vel pellentesque tortor varius vel. Nullam pellentesque magna ac velit posuere, sit amet lacinia nibh cursus. Integer viverra nisl eu velit interdum, et finibus nunc sollicitudin.",
+    "postedBy": "Shahtaz Rahman",
+    "date": "17 Nov 2023",
+    "time": "12:05 PM"
+  }
+]

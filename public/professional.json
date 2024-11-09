@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "current_organizations": [
+        {
+          "name": "ABC Tech",
+          "location": "New York, USA",
+          "position": "Software Engineer",
+          "job_type": "Full-time",
+          "date_started": "2022-01-15",
+          "date_ended": null,
+          "status_isWorking": true,
+          "details": "Working on backend development. Developing robust and scalable APIs for a range of applications. Developing robust and scalable APIs for a range of applications. Developing robust and scalable APIs for a range of applications.",
+          "locationType": "On-site"
+        }
+      ],
+      "past_organizations": [
+        {
+          "name": "TechGlobe Corp",
+          "location": "Seattle, USA",
+          "position": "Junior Developer",
+          "job_type": "Internship",
+          "date_started": "2020-03-01",
+          "date_ended": "2021-01-15",
+          "status_isWorking": false,
+          "details": "Working on backend development. Developing robust and scalable APIs for a range of applications. Developing robust and scalable APIs for a range of applications. Developing robust and scalable APIs for a range of applications.",
+          "locationType": "Remote"
+        },
+        {
+          "name": "Data Insights Co.",
+          "location": "Berlin, Germany",
+          "position": "Data Analyst",
+          "job_type": "Contract",
+          "date_started": "2021-09-05",
+          "date_ended": "2022-12-31",
+          "status_isWorking": false,
+          "details": "Working on backend development. Developing robust and scalable APIs for a range of applications. Developing robust and scalable APIs for a range of applications. Developing robust and scalable APIs for a range of applications.",
+          "locationType": "On-site"
+        }
+      ]
+    }
+  ]
+}
